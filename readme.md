@@ -1,6 +1,6 @@
 <p align="center"><img src="https://serverlesswp.com/wp-content/serverlesswp.png"></p>
 
-WordPress hosting is silly.
+WordPress hosting is silly. 
 
 **Low maintenance** and **low cost/free** WordPress hosting on Vercel, Netlify, or AWS Lambda.
 
